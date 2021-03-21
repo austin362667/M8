@@ -1,12 +1,8 @@
 {
-  "base_url": "knownet.netlify.app",
+  "base_url": "https://knownet.netlify.app",
   "site_title": "Knownet Open Knowledge Program",
   "site_description": "A co-blogging platform for knowledge management.",
-  "site_keywords": [
-    "Blog",
-    "College",
-    "Knowledge"
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@astn.0820_",
   "github_account": "austinliu"
