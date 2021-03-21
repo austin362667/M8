@@ -1,13 +1,33 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: CS
+    name: 資工
+  - slug: UPMT
+    name: 科管
+  - slug: EE
+    name: 電機
+  - slug: CL
+    name: 中文
+  - slug: HSS
+    name: 人社
+  - slug: MS
+    name: 管科
+  - slug: QF
+    name: 計財
+  - slug: ECON
+    name: 經濟
+  - slug: FL
+    name: 外文
+  - slug: CHEM
+    name: 化學
+  - slug: MATH
+    name: 數學
+  - slug: NYCU
+    name: 陽明交大
+  - slug: NTHU
+    name: 清華大學
+  - slug: NTU
+    name: 台灣大學
+  - slug: NCCU
+    name: 政治大學
+  - slug: NCKU
+    name: 成功大學
