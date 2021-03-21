@@ -1,8 +1,8 @@
 tags:
-  - slug: UPMT
-    name: 科管
   - slug: CS
     name: 資工
+  - slug: UPMT
+    name: 科管
   - slug: EE
     name: 電機
   - slug: CL
